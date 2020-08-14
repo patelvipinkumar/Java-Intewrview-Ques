@@ -1,0 +1,35 @@
+
+core java - https://www.journaldev.com/2366/core-java-interview-questions-and-answers / javatpoint
+Collection - https://javarevisited.blogspot.com/2011/11/collection-interview-questions-answers.html / Journaldev
+String - https://javarevisited.blogspot.com/2011/11/collection-interview-questions-answers.html / Journaldev
+
+
+
+Topics:
+*Spring Boot :  https://www.tutorialspoint.com/spring_boot/, https://www.youtube.com/playlist?list=PLTyWtrsGknYegrUmDZB6rcqMotOFZKvbn  ,
+https://www.youtube.com/c/JavaBrainsChannel/playlists?view=50&sort=dd&shelf_id=12
+
+
+
+*Spring Microservices : https://www.youtube.com/c/JavaBrainsChannel/playlists?view=50&sort=dd&shelf_id=12 ,
+
+
+*Spring Cloud : https://www.tutorialspoint.com/spring_boot , https://www.youtube.com/playlist?list=PLTyWtrsGknYegrUmDZB6rcqMotOFZKvbn , 
+https://www.youtube.com/c/JavaBrainsChannel/playlists?view=50&sort=dd&shelf_id=12
+ 
+*Spring JPA :  https://www.youtube.com/playlist?list=PL4AFF701184976B25, https://www.javatpoint.com/hibernate-tutorial
+
+*Spring Data :
+*Spring Messaging :  https://www.youtube.com/watch?v=zaCXYkzLgJc&t=289s
+
+* System Design :  https://www.youtube.com/watch?v=0kJN-8I7Zlg&list=PLm_DiL9tiiZEf1U1SCO_xX8ThzYSMCbo7
+
+
+Database : 
+
+DataStructure : 
+
+
+AWS: 
+
+Design Pattern : https://www.youtube.com/watch?v=tDxnyop48mY&list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol, https://www.javatpoint.com/design-patterns-in-java

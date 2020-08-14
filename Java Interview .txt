@@ -1,0 +1,53 @@
+java2blog 
+Core java interview questions and answers :-----------------------
+
+1. What do you mean by Platform independence of java?
+2. What is difference between JVM, JRE and JDK ?
+3. What are memory areas allocated in JVM?
+4. What are some core concepts of OOPS in Java ?
+5. What is Abstraction?
+6. What is encapsulation?
+7. What is Polymorphism in java?
+8. What is inheritance in java?
+9. What is constructor in java?
+10. Can we declare constructor as final?
+11. What is immutable object in java?
+12. Why String is declared final or immutable in java?
+13. What are access modifier available in java?
+14. What is difference between Abstract class and interface?
+15. Can one interface implement another interface in java?
+16. What is marker interface?
+17. What is method overloading and method overriding in java?
+18. Can you override static methods in Java?
+19. Can you override private methods in Java?
+20. Difference between path and classpath in java?
+21. What is difference between StringBuffer and StringBuilder in java?
+22. What are methods you should override when you put an object as key in HashMap?
+23. Can you explain internal working of HashMap in java?
+24. Why java uses another hash function internally to calculate hash value apart from hashcode method which you have implemented?
+25. What if you don’t override hashcode method while putting custom objects as key in HashMap?
+26. Can you explain internal working of HashSet in java?
+27. What are differences between HashMap and HashSet in java?
+28. Can you explain internal working of ConcurrentHashMap in java?
+29. Do we have lock while getting value from ConcurrentHashMap?
+30. How do you sort Collection of custom objects in java?
+ 31. What are differences between ArrayList and LinkedList in java?
+32. What is Enum in java?
+33. How do you create custom exception in java?
+34.What is difference between Checked Exception and Unchecked Exception?
+35. Can we have try without catch block in java ?
+36. What are ways to create a thread in java ?
+37. What are differences between Sleep and wait in java?
+38. Define states of thread in java?
+39. Can we call run method directly to start a thread?
+40. Can we start a thread twice in java?
+41. What is CountDownLatch in java?
+42. What is difference between CountDownLatch and CyclicBarrier?
+43. Why wait, notify and nofiyAll method belong to object class ?
+44. Can you call wait, notify and notifyAll from non synchronized context?
+45. What is the difference between creating String as new() and literal?
+46. What is Covariant return type in java?
+47. What is garbage Collection?
+48. What is System.gc()?
+49. What is use of finalize() method in object class?
+50.What is difference between final, finally and finalize in Java?
